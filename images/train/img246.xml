@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img246.jpg</filename>
+	<path>C:\Users\Toshiba\Downloads\96714c94-6-Dataset\Dataset\images\img246.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>421</xmin>
+			<ymin>277</ymin>
+			<xmax>516</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>
