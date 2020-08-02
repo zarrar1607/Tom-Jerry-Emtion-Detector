@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img269.jpg</filename>
+	<path>C:\Users\Toshiba\Downloads\96714c94-6-Dataset\Dataset\images\img269.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>645</xmin>
+			<ymin>304</ymin>
+			<xmax>703</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>
