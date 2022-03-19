@@ -1,7 +1,12 @@
-# AIM
+# Tom-Jerry-Emtion-Detector
+
+## Output
+https://user-images.githubusercontent.com/61513813/159110423-5650cfda-f55e-4441-be53-739ec190e183.mp4
+
+## AIM
 Create machine learning model capbale of identifying 4 emotion : angry, sad, surprised, happy, and unknown. I did this using Tensorflow Object Detection API. There are other ways available like dot-based feature extraction, etc but I found this way more effective. This is also a Deep learning challenge given by HackerEarth. For more information check the following point.
 
-# [HackerEarth Deep Learning Challenge](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-emotion-detection-tom-jerry-cartoon/)
+## [HackerEarth Deep Learning Challenge](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-emotion-detection-tom-jerry-cartoon/)
 ### Problem statement
 There is no one around the world who doesn’t know of the animated comedy series, Tom and Jerry. Let’s admit it—all of us still love the iconic show and wish to catch a glimpse of Tom’s and Jerry’s constant notorious banter. Jerry leaves no stone unturned to annoy Tom—be it getting Tom in trouble with his landlady Mammy Two Shoes and his arch-nemesis Spike, making a fool out of him in front of his love interest Toodles Galore, or beating him for bothering Nibbles or Quaker. No matter what, we always end up laughing till our stomachs hurt.
 
@@ -16,7 +21,7 @@ The benefits of practicing this problem by using Machine Learning/Deep Learning 
 
 The challenge is to build a model that detects the emotions of Tom or Jerry in each video frame.
 
-# Soliving Steps
+## Soliving Steps
 1. Download [Tensorflow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection) and flow each step, i.e., go through it's [README.md](https://github.com/tensorflow/models/blob/master/README.md) and download all prerequisite.</li>
 2. Merge the files of this github repository with models/research/object_detection folder on your computer.</li> 
 3. Make the neccessary file path changes
